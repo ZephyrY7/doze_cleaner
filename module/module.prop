@@ -1,0 +1,6 @@
+id=doze-cleanup
+name=Doze Whitelist Cleanup
+version=1.0
+versionCode=1
+author=ZephyrY7
+description=Remove selected third-party packages from OPlus DeviceIdle whitelist source configuration. Check sys_deviceidle_whitelist.xml for whitelisted packages
