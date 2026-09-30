@@ -1,0 +1,5 @@
+# One package per line; lines starting with # are ignored.
+# Each package listed here gets a <wl>package</wl> entry added to the
+# filtered whitelist config, if it isn't already present.
+#
+#com.example.myapp

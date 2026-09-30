@@ -1,8 +1,5 @@
 #!/system/bin/sh
-ui_print "- Installing Doze Whitelist Cleanup"
-
+ui_print "- Installing Doze Whitelist Cleanup v1.1"
 set_perm "$MODPATH/post-fs-data.sh" 0 0 0755
-set_perm "$MODPATH/sys_deviceidle_whitelist.xml" 0 0 0644
-
-ui_print "- Installation complete"
-ui_print "- Reboot to activate"
+ui_print "- Edit remove.list in the module folder to change what is removed"
+ui_print "- Reboot to activate; see last_boot.log for logs"

@@ -1,0 +1,36 @@
+# One package per line; lines starting with # are ignored.
+# Each <wl>package</wl> entry listed here is removed from the OPlus
+# sys_deviceidle_whitelist.xml when the module builds its filtered copy at boot.
+
+com.amap.android.location
+com.baidu.map.location
+com.facebook.katana
+com.tencent.mm
+com.tencent.mobileqq
+com.whatsapp
+com.heytap.browser
+com.heytap.cloud
+com.heytap.market
+com.heytap.mcs
+com.heytap.pictorial
+com.heytap.usercenter
+com.nearme.gamecenter
+com.oppoex.afterservice
+com.realmecomm.app
+com.realmestore.app
+com.oplus.ebadge
+com.oplus.account
+com.oplus.vip
+com.oppo.usercenter
+com.oneplus.account
+com.oplus.linker
+com.coloros.oshare
+com.coloros.activation
+com.oneplus.backuprestore
+com.oneplus.brickmode
+com.coloros.backuprestore
+#com.heytap.accessory
+#com.oplus.cast
+#com.oplus.ota
+#com.oplus.romupdate
+#com.oplus.sau
